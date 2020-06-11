@@ -12,7 +12,9 @@ public class Calculations {
 		int sub = x-y;
 		System.out.println("The sub is= "+ sub);
 		//member_C add the feature of dividing x by y and print the result
-		
+		int division = x/y;
+		System.out.println("The dividion (x/y) = "+ division);
+
 		//member_D add the feature of multiplying x by y and print the result
 		
 		
